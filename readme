@@ -1,2 +1,6 @@
 Here is the readme Here we can make more changes and here we go.
+<<<<<<< Updated upstream
 Second stash here.
+=======
+here also we need to add something.
+>>>>>>> Stashed changes
